@@ -113,11 +113,3 @@ public class Gol {
     }
 }
 
-
-
-
-//runs same as the above conditional statement
-        // if(line.charAt(i) == '*')
-        //     brd[row][i] = true;
-        // else
-        //     brd[row][i] = false;
